@@ -1,0 +1,34 @@
+body {
+	font-size: 0.9em;
+	color: white;
+	background-color: black;
+	//text-align: center;
+}
+
+h1 {
+	background-color: white;
+	border-style: dotted;
+	border-width: 3px 10px;
+	border-color: black;
+	margin: 0em;
+	padding: 1em;
+}
+
+ul, ol {
+	line-height: 1.2em;
+	//text-align: center;
+}
+
+img {
+	border-style: dashed;
+	border-width: 2px;
+	border-color: rgb(255,255,255);
+}
+
+table {
+	background-color: white;
+}
+
+.heading {
+	color: black
+}

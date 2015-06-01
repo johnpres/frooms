@@ -1,0 +1,15 @@
+ToDo: 
+Create Website - Frooms
+--Database
+--Account Logins
+---Student & Faculty Accounts
+--Currency
+--Railscast Devise?
+
+Notes:
+need a room number as index ex 1404(Day A/Room not found)
+String name of room (video lab)
+Boolean - free or not
+String of what's using that room (who is in that room)
+Date field (beginning date of cycle we're dealing with)
+

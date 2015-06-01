@@ -1,0 +1,141 @@
+A, Room ,Period 1 ,Period 2 ,Period 3 ,Period 4 ,Period 5 ,Period 6 ,Period 7 
+A,208,Math 81-01 ,Math 74-02 , , ,Math 83-01 , ,Wednesday RR 84-08 
+A,301,Science 71-01 ,Science 74-04 ,Science 72-02 , ,Science 64-04 ,Science 62-02 , 
+A,303,English 71-01 ,Health/Study 73-03 ,English 81-01 ,English 9-03 ,History 74-04 ,History 73-03 ,Wednesday RR 73-03 
+A,305,History 71-01 ,French 71-01 ,Math 72-02 ,Spanish 5: Spanish Cine ,Ethical Foundations 9-03 ,Math 71-01 ,Wednesday RR 72-02 
+A,306,Advanced Algebra 2 ,Math 61-01 ,Resource Room 1-01 ,French 5 Arts & Culture ,Math 64-04 ,English 9-05 , 
+A,308,History 63-03 ,History 62-02 ,History 83-03 , ,History 81-01 ,History 64-04 ,Wednesday RR 83-07 
+A,309,Health/Study 81-01 ,English 83-03 ,English 74-04 ,French 5 21st Century , ,Study/Health 84-04 ,Wednesday RR 71-01 
+A,310,English 62-02 ,French 2 ,English 63-03 ,Spanish 4-01 ,English 84-04 ,English 64-04 , 
+A,311,Spanish 62-02 ,Spanish 63-03 ,French 61-01 , ,French 62-02 , , 
+A,401,History 9-02 ,AP Calculus AB ,English 10-01 ,Problem Based Math 1B-01 ,Aspects of Metaphor-01 , , 
+A,403,Study/Health 82-02 ,Calculus ,Intro to Algebra 2 ,Problem Based Math 1C-01 ,History 9-03 , , 
+A,404,Pre-Calculus-01 ,Intro to Stats ,Algebra 2-01 ,Problem Based Math 1A ,Advanced English-01 ,European Historical-01 , 
+A,405,Spanish 3-01 ,Spanish 1 Intermediate ,History 9-01 ,European Historical-02 ,College Algebra ,Spanish 5: Adv Span Lit , 
+A,406,Spanish 84-04 ,History 84-04 , , ,Spanish 81-01 ,Health/Study 83-03 ,Wednesday RR 74-04 
+A,407,Spanish 72-02 ,Technology 61-01 ,Spanish 74-04 , ,Spanish 71-01 ,Spanish 73-03 ,Wednesday RR 82-06 
+A,408,History 11-01 ,French 1 Begin ,French 81-01 ,English 9-01 ,Irish Literature-01 , , 
+A,501,Forensic Science ,Science 82-02 ,Science 83-03 , , ,Science 81-01 ,Wednesday RR 81-05 
+A,502,Advanced Physics , , , , , , 
+A,503,Environmental Science ,Physics 11-03 ,English 10-03 ,History 10-02 ,History 10-01 ,Odysseys-01 , 
+A,504,Biology 9-03 ,Biology 11-02 ,Biology 9-05 ,Biology 10-04 ,English 72-02 ,Biology 10-02 , 
+A,505,Physics 9-05 ,Physics 11-01 ,Physics 9-02 , , ,Physics 10-04 , 
+A,506,Chemistry 9-04 , ,Chemistry 9-01 ,Chemistry 10-03 , ,Chemistry 10-01 , 
+B,503,Genetics ,English 10-04 ,Physics 10-01 ,History of China , , ,French 3-01 
+B,504,Advanced Biology , ,Biology 9-02 ,Biology 10-03 , ,Biology 11-01 ,Biology 11-04 
+B,505,Physics 11-04 ,History 10-03 ,Physics 9-01 ,Physics 9-04 , ,Problems in Science-01 ,Peer Leadership-03 
+B,506,Advanced Chemistry , ,Chemistry 9-03 , , , ,Chemistry 11-01 
+B,208,Math 81-01 ,Math 74-02 ,Spanish 4 Adv ,Spanish 4-02 ,Math 82-02 ,Math 84-02 ,Wednesday RR 84-08 
+B,301,Science 62-02 ,Science 74-04 ,Science 72-02 , ,Science 63-03 ,Science 73-03 ,Science 61-01 
+B,302,Stained Glass 9/10-03 , ,Arts Rotation 64-04 , ,Drawing & Painting 71-01 , ,Stained Glass 9/10-02 
+B,303,History 73-03 ,History 72-02 ,English 81-01 ,English 9-05 ,English 82-02 ,English 73-03 ,Wednesday RR 73-03 
+B,305,Math 71-01 ,History 84-04 ,Math 72-02 , ,History 82-02 ,English 9-03 ,Wednesday RR 72-02 
+B,306,Ethical Foundations 9-07 ,Math 61-01 ,Aspects of Metaphor-02 , ,Math 63-03 ,Math 73-01 ,Wednesday RR 83-07 
+B,308,History 64-04 ,History 62-02 ,History 83-03 , ,Study/Health 61-01 , ,History 61-01 
+B,309,Intermediate Computer Pr-02,Health/Study 71-01 ,English 74-04 , , , ,Wednesday RR 71-01 
+B,310,English 64-04 ,English 61-01 ,French 81-01 , ,English 63-03 , ,Wednesday RR 82-06 
+B,311,Exploring Comp Science , , , , , ,French 63-03 
+B,401,AP US History II-02 ,Problem Based Math 1B-02 ,History 10-04 ,Advanced Pre-Calculus , ,Problem Based Math 1B-01 ,Principles of Macroecon 
+B,403,Spanish 2-03 ,Problem Based Math 1C-02 ,Pre-Calculus-02 ,American Politics , ,Problem Based Math 1C-01 ,Spanish 2-02 
+B,404,Spanish 3-03 ,Problem Based Math 1B-03 ,Algebra 2-03 ,History 9-04 , ,Problem Based Math 1A ,Advanced Statistics 
+B,405,French 3-02 ,Algebra 2-02 ,History 9-05 ,Advanced Algebra 2 , ,Intermediate Computer Pr-01,Spanish 3-02 
+B,406,Spanish 84-04 ,English 9-02 , , ,Spanish 83-03 ,Spanish 82-02 ,Wednesday RR 74-04 
+B,407,Spanish 73-03 ,Technology 62-02 ,Spanish 74-04 , , , ,Spanish 61-01 
+B,408,French 4 Advanced ,English 10-02 ,Advanced English-02 ,History 11-02 ,Advanced Programmer's Wo ,English 9-01 ,French 4 
+B,501,Chemistry 11-03 ,Science 82-02 ,Science 83-03 ,Physics 10-02 , ,Science 84-04 ,Chemistry 11-02 
+B,502,Resource Room 2-02 , , , , , , 
+B,503,Genetics ,English 10-04 ,Physics 10-01 ,History of China , , ,French 3-01 
+B,504,Advanced Biology , ,Biology 9-02 ,Biology 10-03 , ,Biology 11-01 ,Biology 11-04 
+B,505,Physics 11-04 ,History 10-03 ,Physics 9-01 ,Physics 9-04 , ,Problems in Science-01 ,Peer Leadership-03 
+B,506,Advanced Chemistry , ,Chemistry 9-03 , , , ,Chemistry 11-01 
+C,208,Math 82-02 ,Math 84-02 , , ,Math 74-02 , ,Wednesday RR 84-08 
+C,301,Science 61-01 ,Science 73-03 ,Science 71-01 , ,Study/Health 74-04 ,Science 72-02 ,Science 63-03 
+C,302,Mosaics 72-02 , ,Drawing & Painting 81-01 ,Stained Glass 9/10-01 , , , 
+C,303,English 82-02 ,English 73-03 ,English 71-01 ,Peer Leadership-04 ,History 72-02 ,English 81-01 ,Wednesday RR 73-03 
+C,305,History 82-02 ,English 9-03 ,Ethical Foundations 9-02 , ,French 71-01 ,Math 72-02 ,Wednesday RR 72-02 
+C,306,Odysseys-01 ,Math 73-01 ,Math 62-02 , ,Math 61-01 , ,Study/Health 62-02 
+C,308,History 61-01 , ,Science Olympians Club-20 , ,History 62-02 ,History 83-03 ,Wednesday RR 83-07 
+C,309,Ethical Foundations 9-04 ,French 5 21st Century , , ,English 83-03 ,English 74-04 ,Wednesday RR 71-01 
+C,310,Spanish 5: Adv Span Lit ,Spanish 4-01 ,English 62-02 ,French 2 ,English 61-01 ,French 81-01 ,English 63-03 
+C,311,French 63-03 ,Spanish 5: Spanish Cine , , ,Spanish 63-03 ,Music Theory 2 ,French 61-01 
+C,401,Aspects of Metaphor-01 ,Problem Based Math 1B-01 ,History 9-02 ,AP Calculus AB ,English 10-01 , ,Teen Cancer America Club-03
+C,403,History 9-03 ,Problem Based Math 1C-01 , ,Spanish 2-01 , ,Intro to Algebra 2 ,Global Concerns Club-04 
+C,404,European Historical-01 ,Problem Based Math 1A ,Pre-Calculus-01 ,Intro to Stats , ,Algebra 2-01 ,Lit Mag/News Club-05 
+C,405,College Algebra ,European Historical-02 ,Spanish 3-01 ,Spanish 1 Intermediate , ,History 9-01 ,Student Council Club-06 
+C,406,Spanish 83-03 ,Spanish 82-02 , , ,History 84-04 , ,Wednesday RR 74-04 
+C,407,Spanish 61-01 ,Resource Room 3-03 ,Spanish 72-02 , , ,Spanish 74-04 ,Wednesday RR 82-06 
+C,408,Irish Literature-01 ,English 9-01 ,History 11-01 ,French 1 Begin , , ,Model Congress-07 
+C,501,Beginning Computer Progr-02,Science 84-04 ,Forensic Science , , ,Science 83-03 ,Wednesday RR 81-05 
+C,502, , ,Advanced Physics , , , ,Harry Potter Club-08 
+C,503,History 10-01 ,History 10-02 ,Environmental Science ,Calculus , ,English 10-03 ,MIOW Club-09 
+C,504,Biology 10-01 ,French 5 Arts & Culture ,Biology 9-04 ,Biology 11-03 , ,Biology 9-01 ,PC Gaming Club-10 
+C,505,Physics 10-04 ,Physics 10-03 ,Algebra 2-03 ,Physics 11-02 , ,Physics 9-05 ,Fuzzy Greens Club-13 
+C,506,Chemistry 10-02 ,Chemistry 10-04 ,Chemistry 9-05 , ,Chemistry 9-02 , , 
+D,208,Math 82-02 ,English 9-04 ,Spanish 4-02 , ,Math 83-01 ,Math 84-02 ,Wednesday RR 84-08 
+D,301,Science 61-01 ,Science 74-04 ,Science 71-01 , ,Science 64-04 ,Science 73-03 ,Wednesday RR 71-01 
+D,302,Drawing & Painting 71-01 ,Stained Glass 11/12 ,Mosaics 82-02 , ,Stained Glass 9/10-02 ,Mosaics 83-03 ,Stained Glass 9/10-03 
+D,303,English 82-02 ,History 72-02 ,English 9-05 ,English 10-01 ,History 74-04 ,English 73-03 ,Wednesday RR 73-03 
+D,305, ,French 71-01 ,History 71-01 ,Ethical Foundations 9-01 , , ,Wednesday RR 72-02 
+D,306,Aspects of Metaphor-02 ,Math 61-01 ,Math 62-02 , ,Math 64-04 ,Math 73-01 ,Math 63-03 
+D,308,History 61-01 ,Study/Health 72-02 ,History 63-03 , ,History 81-01 , ,Wednesday RR 83-07 
+D,309,Spanish 4 Adv ,English 83-03 ,Resource Room 5-05 , , , ,Beginning Computer Progr-01
+D,310,History 82-02 ,English 61-01 , , ,English 84-04 , ,English 63-03 
+D,311,French 63-03 ,Spanish 63-03 ,Spanish 62-02 , ,French 62-02 , ,Intermediate Computer Pr-02
+D,401,History 10-04 ,Problem Based Math 1B-02 ,Advanced Pre-Calculus ,AP Calculus AB , ,Principles of Macroecon ,AP US History II-02 
+D,403,Pre-Calculus-02 ,Problem Based Math 1C-02 ,American Politics ,Intro to Algebra 2 ,Spanish 2-02 , ,Spanish 2-03 
+D,404,Algebra 2-03 ,Problem Based Math 1B-03 ,History 9-04 ,Algebra 2-01 , ,Advanced Statistics ,Spanish 3-03 
+D,405,Odysseys-02 ,Algebra 2-02 ,Advanced Algebra 2 ,Calculus ,Spanish 3-02 , ,French 3-02 
+D,406,Spanish 83-03 ,English 9-02 , , ,Spanish 81-01 ,Spanish 82-02 ,Wednesday RR 74-04 
+D,407,Spanish 61-01 ,Technology 63-03 ,Spanish 72-02 , ,Spanish 71-01 , ,Wednesday RR 82-06 
+D,408,Advanced English-02 ,English 10-02 ,History 11-02 ,Peer Leadership-05 ,French 4 ,Peer Leadership-06 ,French 4 Advanced 
+D,501,Chemistry 10-01 ,Science 82-02 ,Chemistry 10-03 ,Problems in Science-02 , ,Science 84-04 ,Chemistry 11-04 
+D,503,History 9-05 ,English 10-04 ,History of China ,English 10-03 ,French 3-01 , ,Genetics 
+D,504,Biology 9-03 , , ,Biology 11-02 ,English 72-02 ,Biology 11-04 ,Advanced Biology 
+D,505,Physics 9-02 ,History 10-03 ,Physics 10-02 ,Physics 9-03 , , ,Physics 11-03 
+D,506,Chemistry 9-01 , ,Chemistry 9-04 , , ,Chemistry 11-01 ,Advanced Chemistry 
+E,208,Math 74-02 ,Ethical Foundations 9-05 ,Math 81-01 , , ,Math 83-01 ,Wednesday RR 84-08 
+E,301,Science 74-04 ,Science 72-02 ,Science 62-02 , ,Science 71-01 ,Science 64-04 , 
+E,302, ,Arts Rotation 64-04 , , ,Drawing & Painting 81-01 , ,Stained Glass 9/10-01 
+E,303,History 72-02 ,English 81-01 ,History 73-03 ,English 9-03 ,English 71-01 ,History 74-04 ,Wednesday RR 73-03 
+E,305,French 71-01 ,Math 72-02 ,Math 71-01 ,Spanish 5: Spanish Cine ,History 71-01 , ,Wednesday RR 72-02 
+E,306, ,Odysseys-01 , ,French 5 Arts & Culture ,Math 62-02 ,Math 64-04 ,Math 63-03 
+E,308,History 62-02 ,History 83-03 ,History 64-04 , , ,History 81-01 ,Wednesday RR 83-07 
+E,309,English 83-03 ,English 74-04 ,Resource Room 6-06 ,French 5 21st Century , , ,Wednesday RR 71-01 
+E,310,English 61-01 ,Spanish 5: Adv Span Lit ,English 64-04 ,Spanish 4-01 ,English 62-02 ,English 84-04 ,French 2 
+E,311,Spanish 63-03 ,Beginning Computer Progr-02, , , ,French 62-02 ,French 61-01 
+E,401,English 10-01 ,Aspects of Metaphor-01 ,Problem Based Math 1B-02 ,Problem Based Math 1B-01 ,Spanish 62-02 ,History 9-02 ,AP Calculus AB 
+E,403,Intro to Algebra 2 ,History 9-03 ,Problem Based Math 1C-02 ,Problem Based Math 1C-01 , , ,Spanish 2-01 
+E,404,Algebra 2-01 ,European Historical-01 ,Problem Based Math 1B-03 ,Problem Based Math 1A , ,Pre-Calculus-01 ,Intro to Stats 
+E,405,History 9-01 ,College Algebra ,Algebra 2-02 ,European Historical-02 ,Spanish 3-01 ,English 72-02 ,Spanish 1 Intermediate 
+E,406,History 84-04 ,French 81-01 ,Spanish 84-04 , , ,Spanish 81-01 ,Wednesday RR 74-04 
+E,407,Technology 64-04 ,Spanish 74-04 ,Spanish 73-03 , , ,Spanish 71-01 ,Wednesday RR 82-06 
+E,408,Advanced Programmer's Wo ,Irish Literature-01 ,English 10-02 ,English 9-01 , ,History 11-01 ,French 1 Begin 
+E,501,Science 82-02 ,Science 83-03 ,Science 81-01 ,Intermediate Computer Pr-01, ,Forensic Science ,Wednesday RR 81-05 
+E,502, ,Peer Leadership-07 , , , ,Advanced Physics , 
+E,503,English 10-03 ,History 10-01 ,English 10-04 ,History 10-02 ,Environmental Science , ,Calculus 
+E,504,Biology 9-02 ,Biology 10-02 , ,Biology 10-04 ,Biology 9-05 , ,Biology 11-03 
+E,505,Physics 9-01 ,Physics 10-01 ,English 9-02 ,Physics 10-03 ,Physics 9-04 , ,Physics 11-01 
+E,506,Chemistry 9-05 ,Chemistry 10-04 , , ,Chemistry 9-03 , ,Chemistry 11-02 
+F,208,Spanish 4 Adv ,Math 84-02 ,Math 83-01 ,English 9-04 ,Math 82-02 ,Math 81-01 ,Wednesday RR 84-08 
+F,301,Science 63-03 ,Science 73-03 ,Science 64-04 , ,Science 61-01 ,Science 62-02 ,Wednesday RR 83-07 
+F,302,Mosaics 82-02 ,Mosaics 83-03 , ,Stained Glass 11/12 ,Mosaics 72-02 , , 
+F,303,English 71-01 ,English 73-03 ,History 74-04 , ,English 82-02 ,History 73-03 ,Wednesday RR 73-03 
+F,305,History 71-01 ,Ethical Foundations 9-06 ,Beginning Computer Progr-01,English 9-02 , ,Math 71-01 ,Wednesday RR 72-02 
+F,306,Math 63-03 ,Math 73-01 ,Math 64-04 , , ,Resource Room 10-10 ,Math 62-02 
+F,308,Resource Room 7-07 ,Resource Room 8-08 ,History 81-01 , ,History 61-01 ,History 64-04 ,History 63-03 
+F,309, ,Resource Room 9-09 ,French 3-02 , , , ,Wednesday RR 71-01 
+F,310,Aspects of Metaphor-02 , ,English 84-04 , ,History 82-02 ,English 64-04 ,English 62-02 
+F,311,French 61-01 , ,French 62-02 , ,French 63-03 , , 
+F,401,History 10-04 ,Principles of Macroecon ,AP US History II-02 ,Problem Based Math 1B-02 ,Advanced Pre-Calculus , ,Spanish 62-02 
+F,403,Pre-Calculus-02 ,Spanish 2-02 ,Spanish 2-03 ,Problem Based Math 1C-02 ,American Politics , ,Microfinance Club-14 
+F,404,Algebra 2-03 ,Advanced Statistics ,Spanish 3-03 ,Problem Based Math 1B-03 ,History 9-04 ,English 9-05 ,Model UN-15 
+F,405,Odysseys-02 ,Spanish 3-02 ,English 72-02 ,Algebra 2-02 ,Music Theory 2 ,Advanced Algebra 2 ,Film Forum Club-16 
+F,406, ,Spanish 82-02 ,Spanish 81-01 , ,Spanish 83-03 ,Spanish 84-04 ,Wednesday RR 74-04 
+F,407,Spanish 72-02 ,Peer Leadership-09 ,Spanish 71-01 , ,Spanish 61-01 ,Spanish 73-03 ,Wednesday RR 82-06 
+F,408,Advanced English-02 ,French 4 ,French 4 Advanced ,English 10-02 ,Spanish 4-02 ,History 11-02 ,Sci FI Club-17 
+F,501,Biology 9-01 ,Science 84-04 ,Chemistry 11-03 , , ,Science 81-01 ,Wednesday RR 81-05 
+F,502, , , , , , ,Peer Leadership Club-18 
+F,503,History 9-05 ,French 3-01 ,Genetics ,English 10-04 ,History of China , ,Peer Leadership Club-19 
+F,504,Biology 10-01 ,Biology 11-01 ,Advanced Biology , ,Biology 10-03 ,Biology 9-04 ,Science Olympians Club-20 
+F,505,Physics 9-03 ,Physics 11-02 ,Physics 11-04 ,History 10-03 , , , 
+F,506,Chemistry 9-02 ,Chemistry 11-04 ,Advanced Chemistry , , ,Chemistry 10-02 , 

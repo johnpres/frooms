@@ -1,0 +1,43 @@
+<h1>Listing rooms</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Period</th>
+      <th>Letter Day</th>
+      <th>Free</th>
+      <th>User</th>
+      <th>Sdate</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @rooms.each do |room| %>
+      <tr>
+        <td><%= room.id %></td>
+        <td><%= room.name %></td>
+        <td><%= room.rperiod %></td>
+        <td><%= room.rletterday %></td>
+        <td><%= room.free %></td>
+        <td><%= room.user %></td>
+        <td><%= room.sdate %></td>
+        <td><%= link_to 'Show', room %></td>
+        <td><%= link_to 'Edit', edit_room_path(room) %></td>
+        <td><%= link_to 'Destroy', room, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Room', new_room_path %>
+<!--
+<!-- <h2> Import Data</h2> -->
+<!-- <%= form_tag import_rooms_path, multipart: true do %> -->
+<!--  <%= file_field_tag :file %> -->
+ <!-- <%= submit_tag "Import" %> -->
+<!-- <% end %> -->
